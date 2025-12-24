@@ -1,2 +1,13 @@
-# Bank-Marketing-Campaign
-This project covers the complete data science pipeline including exploratory data analysis (EDA), data preprocessing, and training multiple machine learning models to predict customer response in a bank marketing campaign.
+## 📊 Project Overview
+This project covers the complete data science pipeline, including exploratory data analysis (EDA), data preprocessing, and training multiple machine learning models to predict customer response in a bank marketing campaign.
+
+## 🎤 Presentation
+🔗 https://docs.google.com/presentation/d/1KMm7HWXgBDs0nsviIV1MQwojqfuBPRi-w7oXmCyrnYw/edit?slide=id.p1#slide=id.p1
+
+## 📓 Kaggle Notebook
+🔗 https://www.kaggle.com/code/mohamedaymanae/bank-marketing-campaign
+
+## 🔍 Project Steps
+- Exploratory Data Analysis (EDA)
+- Data Preprocessing
+- Machine Learning Models
